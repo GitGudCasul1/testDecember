@@ -1,5 +1,5 @@
-publik claszs ErrorClass {
-    public static void mainz(Strings[] args) {
+public class ErrorClass {
+    public static void main(String[] args) {
         System.out.println("Hello world!")
     } 
 }
